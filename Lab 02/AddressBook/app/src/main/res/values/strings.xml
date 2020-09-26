@@ -1,0 +1,14 @@
+<resources>
+    <string name="txtTitle">Your Contacts: Address Book</string>
+    <string name="txtFriend1Name">Jennifer lopez</string>
+    <string name="txtFriend2Name">Justin bieber</string>
+    <string name="txtFriend1Num">Mobile: 604-111-2222</string>
+    <string name="txtFriend2Num">Mobile: 604-222-3333</string>
+    <string name="txtFriend1Add">Address: 605 Robson st</string>
+    <string name="txtFriend2Add">Address: 233 Robson st</string>
+    <string name="btnFriend1">View Jennifer Contact</string>
+    <string name="btnFriend2">View Justin Contact</string>
+    <string name="txtFriendDescription">Jennifer Description</string>
+    <string name="txtFrined2Description">Justin Description</string>
+    <string name="app_name">Your Contacts: Address Book</string>
+</resources>
