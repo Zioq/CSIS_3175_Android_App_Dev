@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Paint Calculator App</string>
+    <string name="txtTitle">Paint Calculator</string>
+    <string name="imgPaint">Pictures of paint</string>
+    <string name="btnCompute">Compute to Gallons</string>
+    <string name="hintHeight">Enter the room\'s height</string>
+    <string name="hintDistance">Enter distance of room</string>
+    <string name="prompt">Select a color</string>
+    <string-array name="paintOptions">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Pink</item>
+    </string-array>
+    <string name="txtResult"></string>
+</resources>
