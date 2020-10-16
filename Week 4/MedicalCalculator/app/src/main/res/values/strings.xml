@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Medical Calculator</string>
+    <string name="hint">Weight of Patient</string>
+    <string name="radlbToKilo">Covert Pounds to Killogram</string>
+    <string name="radKiloTRoLb">Covert Killogram to Pound</string>
+    <string name="btnConvert">Convert Weight</string>
+    <string name="txtTitle">Convert Patient Weight</string>
+</resources>
