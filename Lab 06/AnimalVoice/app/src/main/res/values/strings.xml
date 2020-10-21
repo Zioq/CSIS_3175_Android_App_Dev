@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animal Voice</string>
+    <string name="img_cows">Cow image</string>
+    <string name="img_pigs">Pig imgae</string>
+    <string name="btn_cow">LISTEN TO THE COWS</string>
+    <string name="btn_pig">LISTEN TO THE PIGS</string>
+    <string name="str_animalVoice">Animal Voice</string>
+</resources>
