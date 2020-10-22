@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imgSinger1"
+        android:layout_width="104dp"
+        android:layout_height="99dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="64dp"
+        android:contentDescription="@string/imgDes1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/singer1" />
+
+    <ImageView
+        android:id="@+id/imgSinger2"
+        android:layout_width="108dp"
+        android:layout_height="99dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="64dp"
+        android:contentDescription="@string/imgDes2"
+        app:layout_constraintStart_toEndOf="@+id/imgSinger1"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/singer2" />
+
+    <ImageView
+        android:id="@+id/imgSinger3"
+        android:layout_width="114dp"
+        android:layout_height="99dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="56dp"
+        android:contentDescription="@string/imgDes3"
+        app:layout_constraintStart_toEndOf="@+id/imgSinger2"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/singer3" />
+
+    <Button
+        android:id="@+id/singer1btn1"
+        android:layout_width="110dp"
+        android:layout_height="66dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/playbtn1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgSinger1" />
+
+    <Button
+        android:id="@+id/singer2btn2"
+        android:layout_width="110dp"
+        android:layout_height="66dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/playbtn2"
+        app:layout_constraintStart_toEndOf="@+id/singer1btn1"
+        app:layout_constraintTop_toBottomOf="@+id/imgSinger2" />
+
+    <Button
+        android:id="@+id/singer3btn3"
+        android:layout_width="110dp"
+        android:layout_height="66dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/playbtn3"
+        app:layout_constraintStart_toEndOf="@+id/singer2btn2"
+        app:layout_constraintTop_toBottomOf="@+id/imgSinger3" />
+</androidx.constraintlayout.widget.ConstraintLayout>

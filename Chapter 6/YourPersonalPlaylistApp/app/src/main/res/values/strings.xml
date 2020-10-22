@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Your Personal Playlist App</string>
+    <string name="txtTitle">Listen your Musician</string>
+    <string name="imgTitle">Title Image</string>
+    <string name="imgDes1">Singer1</string>
+    <string name="imgDes2">Singer2</string>
+    <string name="imgDes3">Singer3</string>
+    <string name="playbtn1">Play Music 1</string>
+    <string name="playbtn2">Play Music 2</string>
+    <string name="playbtn3">Paly Music 3</string>
+</resources>
