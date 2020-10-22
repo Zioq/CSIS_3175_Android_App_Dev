@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tech Gadgets App</string>
+    <string name="bestBuy_img_desc">Best Buy Image</string>
+    <string name="Laptop_desc">Labtop Image</string>
+    <string name="Monitor_desc">Monitor Image</string>
+    <string name="Television_desc">Television Imge</string>
+    <string name="HomeAudio_desc">Home Audio Image</string>
+    <string name="Headphone_desc">Headphone Image</string>
+    <string name="btn_Laptop">Check Laptop</string>
+    <string name="btn_Monitor">Check Monitor</string>
+    <string name="btn_Television">Check Television</string>
+    <string name="btn_homeAudio">Check Home Audio</string>
+    <string name="btn_Headphone">Check Headphones</string>
+</resources>
