@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Currency Conversion App</string>
+    <string name="txt_Title">Currency Coversion</string>
+    <string name="txt_sub">Conver US Dollars into euros, Mexican pesos, or Canadian dollars</string>
+    <string name="txt_hint">Enter U.S dollar under $100,000</string>
+    <string name="txt_euro">euro</string>
+    <string name="txt_pesos">pesos</string>
+    <string name="txt_canadian">canadian Dollars</string>
+    <string name="btn_covert">Convert</string>
+    <string name="img_desc">Currency Image</string>
+
+    <string-array name="txtGroup">
+        <item>Euros</item>
+        <item>Mexican pesos</item>
+        <item>Canadian dollars</item>
+
+    </string-array>
+    <string name="txt_promps">Select Country</string>
+</resources>
