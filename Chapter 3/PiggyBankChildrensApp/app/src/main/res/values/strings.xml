@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Piggy Bank Children’s App</string>
+    <string name="txtTitle">Children Pig Piggy Bank</string>
+    <string name="btn_main">Go to Calculate</string>
+    <string name="img_desc">Pig Image</string>
+    <string name="txtQuaterHint">Enter number of quaters</string>
+    <string name="txtDimesHint">Enter number of dimes</string>
+    <string name="txtNickelsHint">Enter number of nickels</string>
+    <string name="txtPenniesHint">Enter number of pennies</string>
+    <string name="btn_Calculate">Calculate Total</string>
+
+    <string-array name="txtGroup">
+        <item>Saving</item>
+        <item>Spending</item>
+    </string-array>
+    <string name="txtTitle2">Enter number of coins</string>
+    <string name="txtQuaters">Quarters</string>
+    <string name="txtDimes">Dimes</string>
+    <string name="txtNickels">Nickels</string>
+    <string name="txtPennies">Pennies</string>
+    <string name="prompt">Choose one</string>
+</resources>

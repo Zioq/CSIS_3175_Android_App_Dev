@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Catalina Island Boat Express App</string>
+    <string name="txt_Title">Catalina Ferry Tickets</string>
+    <string name="hint">Number of Tickets</string>
+    <string name="btn">COMPUTE COST</string>
+
+    <string-array name="txtGroup">
+        <item>Catalina Island</item>
+        <item>Long Beach</item>
+    </string-array>
+    <string name="txtImage">Ferry</string>
+    <string name="txtPrompt">Choose the location</string>
+
+</resources>
