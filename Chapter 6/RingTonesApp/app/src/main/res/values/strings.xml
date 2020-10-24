@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ring Tones App</string>
+    <string name="txtTitle">Free Ringtone</string>
+    <string name="opt1Title">Music 1</string>
+    <string name="opt2Title">Music 2</string>
+    <string name="opt3Title">Music 3</string>
+    <string name="opt1Desc">This is Music 1</string>
+    <string name="opt2Desc">This is Music 2</string>
+    <string name="opt3Desc">This is Music 3</string>
+    <string name="imgDescription">Music</string>
+    <string name="btnPlay">Play the song</string>
+    <string name="btnStop">Pause the song</string>
+</resources>
