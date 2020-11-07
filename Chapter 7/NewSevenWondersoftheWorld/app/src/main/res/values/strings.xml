@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">New Seven Wonders of the World</string>
+    <string name="imgSmall">Wonders of the World Thumbnail</string>
+    <string name="imgLarge">Wonders of the World Image</string>
+</resources>
