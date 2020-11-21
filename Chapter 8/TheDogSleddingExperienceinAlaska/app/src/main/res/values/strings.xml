@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Dog Sledding Experience in Alaska</string>
+    <string name="txt_Title">The Dog Sledding Experience in Alaska</string>
+    <string name="txt_Body">You are speeding through Alaskan forest near Denali, sitting on a sled that is being pulled by some of the most powerful Alaskan creatures. This is dog sledding and mushing is not only an Alaskan tradition, but also a state obsession.</string>
+    <string name="txt_button">PICK A DAY FOR YOUR SLEDDING EXPERIENCE</string>
+    <string name="img_desc">Image</string>
+</resources>
