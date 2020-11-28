@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Oasis Spa Tablet App</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="txtSpa1">With our spa and message services you are getting the relaxing touch of an expert. With an aromatic pillow for your eyes, a choice of aroma therapy oil, and a heated pillow for your neck, our message offerings will restroe balance to min and body</string>
+    <string name="txtSpa2"> Our spa manicure and pedicure service soothe with a warm neck pillow, Skin exfoliation and a hydrating message are extended to the elbow for manicures and to the knn foe pedicures, which also include a customized foot bath with essential oil.</string>
+    <string name="txtTitle">Oasis Spa</string>
+    <string name="txtInfo">Oasis Sap at 1268 Andrew Lane, Pond, OK 43277, 555-332-3366</string>
+    <string name="txtDescription">Spa Image</string>
+
+</resources>

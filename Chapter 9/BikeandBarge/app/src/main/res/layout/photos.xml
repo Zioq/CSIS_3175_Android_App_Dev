@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/imgBike"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/txtDescription"
+            android:padding="15sp"
+            app:srcCompat="@drawable/bike" />
+
+        <TextView
+            android:id="@+id/txtBike"
+            android:layout_width="600dp"
+            android:layout_height="wrap_content"
+            android:padding="15sp"
+            android:text="@string/txtBike"
+            android:textSize="30sp" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imgBarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/txtDescription"
+            android:padding="15sp"
+            app:srcCompat="@drawable/barge" />
+
+        <TextView
+            android:id="@+id/txtBarge"
+            android:layout_width="600dp"
+            android:layout_height="wrap_content"
+            android:padding="15sp"
+            android:text="@string/txtBarge"
+            android:textSize="30sp" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/imgBudapest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/txtDescription"
+            android:padding="15sp"
+            app:srcCompat="@drawable/budapest" />
+
+        <TextView
+            android:id="@+id/txtBudapest"
+            android:layout_width="600dp"
+            android:layout_height="wrap_content"
+            android:drawablePadding="15sp"
+            android:text="@string/txtBudapest"
+            android:textSize="30sp" />
+    </TableRow>
+</TableLayout>
