@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Improve Your Golf Stroke App</string>
+    <string name="btnStart">perfect golf Swing</string>
+    <string name="btnStop">Rotate Your Swing</string>
+    <string name="imgDesc">Gold Img</string>
+
+</resources>
