@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Snap Fitness Tablet App</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="imgDesc">Img Description</string>
+    <string name="Img1txt">Enjoy your exercise in here</string>
+    <string name="Img2txt">Burn fat</string>
+    <string name="Img3txt">Don\'t worry we will help you</string>
+    <string name="Img4txt">Please Sign up ASAP</string>
+    <string name="InfoTxt">Anytime Fitness Information</string>
+    <string name="InfoYouth">Youth (ages 14–17): $25</string>
+    <string name="infoAdult">Adult (18 and over): $50</string>
+    <string name="infoFamily">Family/Household: $75</string>
+    <string name="infoActive">Active Senior: $50</string>
+</resources>

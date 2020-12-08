@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="50sp"
+        android:paddingBottom="60sp"
+        android:text="@string/InfoTxt"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/txtInfo1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30sp"
+        android:paddingBottom="30sp"
+        android:text="@string/InfoYouth"
+        android:textSize="60sp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30sp"
+        android:paddingBottom="30sp"
+        android:text="@string/infoAdult"
+        android:textSize="60sp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30sp"
+        android:paddingBottom="30sp"
+        android:text="@string/infoFamily"
+        android:textSize="60sp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30sp"
+        android:paddingBottom="30sp"
+        android:text="@string/infoActive"
+        android:textSize="60sp" />
+</LinearLayout>

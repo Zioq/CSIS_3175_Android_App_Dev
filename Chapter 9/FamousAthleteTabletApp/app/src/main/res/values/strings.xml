@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Famous Athlete Tablet App</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="txtName">Heung Min Son</string>
+    <string name="imgDesc">ImgeDesc</string>
+    <string name="txtBirth">8 July 1992</string>
+    <string name="txtHome">Chuncheon, Gangwon, South Korea</string>
+    <string name="txtStat">Forward</string>
+    <string name="txtDetail">a South Korean professional footballer who plays as a forward for Premier League club Tottenham Hotspur and captains the South Korea national team</string>
+</resources>
