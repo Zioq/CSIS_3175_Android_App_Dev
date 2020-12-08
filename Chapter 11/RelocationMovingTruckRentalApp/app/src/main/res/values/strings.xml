@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Relocation Moving Truck Rental App</string>
+    <string name="txtTitle">Moving Truck Rental</string>
+    <string name="txt10Price">10-foot truck: $19.95</string>
+    <string name="txt17Price">17-foot truck: $29.95</string>
+    <string name="txt26Price">26-foot truck: $39.95</string>
+    <string name="hint_mile">Enter you mile</string>
+    <string name="imgDesc">ImgDescription</string>
+    <string name="btnCalculate">Calculate Cost</string>
+</resources>
