@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Home Mortgage Interest App</string>
+    <string name="txtTitle">Home Mortgage Interest</string>
+    <string name="btnComputer">compute intereset</string>
+    <string name="hint_Payment">Enter payment</string>
+    <string name="hint_year">Enter year</string>
+    <string name="hint_initial">Enter inital pricipal</string>
+</resources>
